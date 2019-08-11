@@ -3,8 +3,8 @@ Naive Bayes Classifier on stackoverflow questions
 
 Взаимодействие с программой:
 
-  ./prog learn --input <input file> --output <stats file>
-  ./prog classify --stats <stats file> --input <input file> --output <output file>
+	./prog learn --input <input file> --output <stats file>
+	./prog classify --stats <stats file> --input <input file> --output <output file>
   
 Формат входных файлов при обучении:
 
